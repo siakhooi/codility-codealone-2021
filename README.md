@@ -1,10 +1,10 @@
-# Codility Challenge: <Challenge Name>
+# Codility Challenge: Code Alone
 
 ## <Task Name>
 
 - Difficulty: <Difficulty>
 - <Description>
-- <challenge-url>
+- <https://app.codility.com/programmers/challenges/codealone_2021/>
 - <task-url>
 
 ## Versions
@@ -14,7 +14,7 @@
   - `OK`: Correctness 100%, Performance <100%.
   - `Fail`: Correctness <100%, Performance <100%.
 - File naming convention
-  - Code `A`: `Challenge2021A.java`
+  - Code `A`: `CodeAlone2021A.java`
   - etc
 
 ### Gold Award
