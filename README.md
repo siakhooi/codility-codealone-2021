@@ -5,7 +5,7 @@
 - Difficulty: Hard
 - Calculate the minimum required number of swaps of neighbouring letters in a string built from the letters 'a' and 'b', after which the string would contain both "aaa" and "bbb" as substrings.
 - <https://app.codility.com/programmers/challenges/codealone_2021/>
-- <task-url>
+- <https://app.codility.com/programmers/task/a_b_swaps/>
 
 ## Versions
 
