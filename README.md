@@ -37,3 +37,9 @@
 
 - `B3` was incomplete and has been deleted.
 - `B4` has a bug, failed this scenario: `(abaab)*`, expected 3 but was 2.
+
+### Solutions by Codility
+
+| File | Complexity | Result | Report                                                                  |
+| ---- | ---------- | ------ | ----------------------------------------------------------------------- |
+| `D1` | `O(N)`     | `Good` | [4X3A4K-2SA](https://app.codility.com/demo/results/training4X3A4K-2SA/) |
